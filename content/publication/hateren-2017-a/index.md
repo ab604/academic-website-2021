@@ -9,7 +9,7 @@ publication_types:
 tags:
 - Source Themes
 title: "Recent advances in Major Histocompatibility Complex class I antigen presentation: Plastic MHC molecules and TAPBPR-mediated quality control."
-date: 2017-01-01
+date: 2017-02-17
 publishDate: 2019-07-09T15:47:51.421169Z
 authors: ["Andy van Hateren", "Alistair Bailey", "Tim Elliott"]
 publication_types: ["2"]

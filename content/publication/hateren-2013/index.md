@@ -9,7 +9,7 @@ publication_types:
 tags:
 - Source Themes
 title: "A mechanistic basis for the co-evolution of chicken tapasin and major histocompatibility complex class I (MHC I) proteins"
-date: 2013-01-01
+date: 2013-11-08
 publishDate: 2019-07-09T15:47:51.418170Z
 authors: ["A. van Hateren", "R. Carter", "A. Bailey", "N. Kontouli", "A. P. Williams", "J. Kaufman", "T. Elliott"]
 publication_types: ["2"]

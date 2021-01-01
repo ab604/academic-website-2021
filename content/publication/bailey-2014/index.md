@@ -9,7 +9,7 @@ publication_types:
 tags:
 - Source Themes
 title: "Two Polymorphisms Facilitate Differences in Plasticity between Two Chicken Major Histocompatibility Complex Class I Proteins"
-date: 2014-01-01
+date: 2014-02-20
 publishDate: 2019-07-09T15:47:51.420170Z
 authors: ["Alistair Bailey", "Andy van Hateren", "Tim Elliott", "Jörn M. Werner"]
 publication_types: ["2"]

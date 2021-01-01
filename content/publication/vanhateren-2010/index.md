@@ -9,7 +9,7 @@ publication_types:
 tags:
 - Source Themes
 title: "The cell biology of major histocompatibility complex class I assembly: towards a molecular understanding"
-date: 2010-01-01
+date: 2010-10-01
 publishDate: 2019-07-09T15:47:51.416171Z
 authors: ["A. Van Hateren", "E. James", "A. Bailey", "A. Phillips", "N. Dalchau", "T. Elliott"]
 publication_types: ["2"]

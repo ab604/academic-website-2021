@@ -9,7 +9,7 @@ publication_types:
 tags:
 - Source Themes
 title: "Dynamically Driven Allostery in MHC Proteins: Peptide-Dependent Tuning of Class I MHC Global Flexibility"
-date: 2019-01-01
+date: 2019-05-03
 publishDate: 2019-07-09T15:47:51.423169Z
 authors: ["Cory M. Ayres", "Esam T. Abualrous", "Alistair Bailey", "Christian Abraham", "Lance M. Hellman", "Steven A. Corcelli", "Frank Noé", "Tim Elliott", "Brian M. Baker"]
 publication_types: ["2"]

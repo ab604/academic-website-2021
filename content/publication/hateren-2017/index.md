@@ -9,7 +9,7 @@ publication_types:
 tags:
 - Source Themes
 title: "Direct evidence for conformational dynamics in major histocompatibility complex class I molecules"
-date: 2017-01-01
+date: 2017-09-25
 publishDate: 2019-07-09T15:47:51.417170Z
 authors: ["A. van Hateren", "M. Anderson", "A. Bailey", "J. M. Werner", "P. Skipp", "T. Elliott"]
 publication_types: ["2"]
