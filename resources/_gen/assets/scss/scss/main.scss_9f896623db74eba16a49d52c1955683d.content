@@ -7234,7 +7234,7 @@ ul.task-list li input[type="checkbox"] {
 
 /* Headings */
 h1, h2, h3, h4, h5, h6 {
-  font-family: "Atkinson Hyperlegible:wght@700", sans-serif;
+  font-family: "Atkinson Hyperlegible", sans-serif;
   font-weight: 400;
   margin-top: 1rem;
   margin-bottom: .5rem;
