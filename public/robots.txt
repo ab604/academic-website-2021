@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://ab604.uk/sitemap.xml

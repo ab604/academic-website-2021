@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data science | Dr. Alistair Bailey</title>
+    <link>https://ab604.uk/tag/data-science/</link>
+      <atom:link href="https://ab604.uk/tag/data-science/index.xml" rel="self" type="application/rss+xml" />
+    <description>Data science</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Wed, 05 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ab604.uk/images/icon_hu0f11bd59e4bf45989b0a13431683b23b_1758_512x512_fill_lanczos_center_2.png</url>
+      <title>Data science</title>
+      <link>https://ab604.uk/tag/data-science/</link>
+    </image>
+    
+    <item>
+      <title>Coding togetheR</title>
+      <link>https://ab604.uk/project/2020-02-05-coding-together/</link>
+      <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://ab604.uk/project/2020-02-05-coding-together/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

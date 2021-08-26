@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MHC class I | Dr. Alistair Bailey</title>
+    <link>https://ab604.uk/tag/mhc-class-i/</link>
+      <atom:link href="https://ab604.uk/tag/mhc-class-i/index.xml" rel="self" type="application/rss+xml" />
+    <description>MHC class I</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Tue, 01 Dec 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ab604.uk/images/icon_hu0f11bd59e4bf45989b0a13431683b23b_1758_512x512_fill_lanczos_center_2.png</url>
+      <title>MHC class I</title>
+      <link>https://ab604.uk/tag/mhc-class-i/</link>
+    </image>
+    
+    <item>
+      <title>Plasticity of empty major histocompatibility complex class I molecules determines peptide-selector function</title>
+      <link>https://ab604.uk/publication/van-hateren-plasticity-2015/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://ab604.uk/publication/van-hateren-plasticity-2015/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Plasticity of empty major histocompatibility complex class I molecules determines peptide-selector function.</title>
+      <link>https://ab604.uk/pubs/old-content/content/publication/0695-fb-878-a-0-b-48-ca-8-e-8-ce-219-f-4899-eef/</link>
+      <pubDate>Tue, 01 Dec 2015 00:00:00 +0000</pubDate>
+      <guid>https://ab604.uk/pubs/old-content/content/publication/0695-fb-878-a-0-b-48-ca-8-e-8-ce-219-f-4899-eef/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

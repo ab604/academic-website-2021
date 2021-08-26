@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Molecular dynamics | Dr. Alistair Bailey</title>
+    <link>https://ab604.uk/tag/molecular-dynamics/</link>
+      <atom:link href="https://ab604.uk/tag/molecular-dynamics/index.xml" rel="self" type="application/rss+xml" />
+    <description>Molecular dynamics</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Tue, 20 Oct 2015 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ab604.uk/images/icon_hu0f11bd59e4bf45989b0a13431683b23b_1758_512x512_fill_lanczos_center_2.png</url>
+      <title>Molecular dynamics</title>
+      <link>https://ab604.uk/tag/molecular-dynamics/</link>
+    </image>
+    
+    <item>
+      <title>Selector function of MHC I molecules is determined by protein plasticity</title>
+      <link>https://ab604.uk/project/2015-10-20-selector-function/</link>
+      <pubDate>Tue, 20 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://ab604.uk/project/2015-10-20-selector-function/</guid>
+      <description>&lt;p&gt;This project sought to explain the mechanism of peptide selection by two functionally distinct MHC I allotypes using a combination of molecular dynamics and mathematical modelling of biochemical experiments.&lt;/p&gt;
+&lt;p&gt;In collaboration with &lt;a href=&#34;https://www.microsoft.com/en-us/research/group/biological-computation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the Biological Computation Group at Microsoft Research Cambridge&lt;/a&gt; 
+we used biochemical data to infer that a conformational intermediate of MHC I is 
+significant for peptide selection, and molecular dynamics simulations to show that peptide selector function correlates with protein plasticity.&lt;/p&gt;
+&lt;p&gt;This led to the proposal that MHC I cofactor tapasin modulates MHC I plasticity by 
+dynamically coupling the peptide binding region and membrane bound domain.&lt;/p&gt;
+&lt;h2 id=&#34;publication&#34;&gt;Publication&lt;/h2&gt;
+&lt;p&gt;A. Bailey, N. Dalchau, R. Carter, S. Emmott, A. Phillips, J. M. Werner, T. Elliott. 
+Selector function of MHC I molecules is determined by protein plasticity. 
+Sci Rep, (5), pp. 14928, &lt;a href=&#34;https://doi.org/10.1038/srep14928,&#34;&gt;https://doi.org/10.1038/srep14928,&lt;/a&gt; 2015.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;MHC model&#34; title=&#34;Mathematical model of MHC I peptide selection&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;mhc_dynamics.png&#34; alt=&#34;MHC dynamice&#34; title=&#34;Mathematical model of MHC I peptide selection&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Two Polymorphisms Facilitate Differences in Plasticity between Two Chicken Major Histocompatibility Complex Class I Proteins</title>
+      <link>https://ab604.uk/publication/bailey-two-2014/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>https://ab604.uk/publication/bailey-two-2014/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

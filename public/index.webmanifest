@@ -1,0 +1,18 @@
+{
+  "name": "Dr. Alistair Bailey",
+  "short_name": "Dr. Alistair Bailey",
+  "lang": "en-gb",
+  "theme_color": "#3CBAC6",
+  "background_color": "#3CBAC6",
+  "icons": [{
+    "src": "/images/icon_hu0f11bd59e4bf45989b0a13431683b23b_1758_192x192_fill_lanczos_center_2.png",
+    "sizes": "192x192",
+    "type": "image/png"
+    }, {
+    "src": "/images/icon_hu0f11bd59e4bf45989b0a13431683b23b_1758_512x512_fill_lanczos_center_2.png",
+    "sizes": "512x512",
+    "type": "image/png"
+     }],
+  "display": "standalone",
+  "start_url": "/?utm_source=web_app_manifest"
+}

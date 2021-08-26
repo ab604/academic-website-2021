@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>MHC | Dr. Alistair Bailey</title>
+    <link>https://ab604.uk/tag/mhc/</link>
+      <atom:link href="https://ab604.uk/tag/mhc/index.xml" rel="self" type="application/rss+xml" />
+    <description>MHC</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ab604.uk/images/icon_hu0f11bd59e4bf45989b0a13431683b23b_1758_512x512_fill_lanczos_center_2.png</url>
+      <title>MHC</title>
+      <link>https://ab604.uk/tag/mhc/</link>
+    </image>
+    
+    <item>
+      <title>The immunopeptidomes of two transmissible cancers and their host have a common, dominant peptide motif</title>
+      <link>https://ab604.uk/publication/gastaldello-immunopeptidomes-2021/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://ab604.uk/publication/gastaldello-immunopeptidomes-2021/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

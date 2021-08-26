@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | Dr. Alistair Bailey</title>
+    <link>https://ab604.uk/project/</link>
+      <atom:link href="https://ab604.uk/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Wed, 05 Feb 2020 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ab604.uk/images/icon_hu0f11bd59e4bf45989b0a13431683b23b_1758_512x512_fill_lanczos_center_2.png</url>
+      <title>Projects</title>
+      <link>https://ab604.uk/project/</link>
+    </image>
+    
+    <item>
+      <title>Coding togetheR</title>
+      <link>https://ab604.uk/project/2020-02-05-coding-together/</link>
+      <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
+      <guid>https://ab604.uk/project/2020-02-05-coding-together/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Creating and using a colour palette and colour gradients for plotting</title>
+      <link>https://ab604.uk/project/2018-11-11-colour-palette-tutorial/</link>
+      <pubDate>Sun, 11 Nov 2018 00:00:00 +0000</pubDate>
+      <guid>https://ab604.uk/project/2018-11-11-colour-palette-tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Umeå Software Carpentry Workshop</title>
+      <link>https://ab604.uk/project/2018-10-13-umea-swc-workshop/</link>
+      <pubDate>Sat, 13 Oct 2018 00:00:00 +0000</pubDate>
+      <guid>https://ab604.uk/project/2018-10-13-umea-swc-workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>British Society for Proteomics 2018 Data Science Workshop</title>
+      <link>https://ab604.uk/project/2018-07-16-bspr-workshop/</link>
+      <pubDate>Mon, 16 Jul 2018 00:00:00 +0000</pubDate>
+      <guid>https://ab604.uk/project/2018-07-16-bspr-workshop/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Machine Learning for MHC I peptide classification</title>
+      <link>https://ab604.uk/project/2018-06-17-mhc-ml/</link>
+      <pubDate>Fri, 20 Apr 2018 00:00:00 +0000</pubDate>
+      <guid>https://ab604.uk/project/2018-06-17-mhc-ml/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>MHC dynamics dashboard</title>
+      <link>https://ab604.uk/project/2018-05-17-hdx-dashboard/</link>
+      <pubDate>Fri, 20 Jan 2017 00:00:00 +0000</pubDate>
+      <guid>https://ab604.uk/project/2018-05-17-hdx-dashboard/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R heatmap tutorial using d3heatmap</title>
+      <link>https://ab604.uk/project/2016-04-20-heatmap-tutorial/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      <guid>https://ab604.uk/project/2016-04-20-heatmap-tutorial/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Selector function of MHC I molecules is determined by protein plasticity</title>
+      <link>https://ab604.uk/project/2015-10-20-selector-function/</link>
+      <pubDate>Tue, 20 Oct 2015 00:00:00 +0000</pubDate>
+      <guid>https://ab604.uk/project/2015-10-20-selector-function/</guid>
+      <description>&lt;p&gt;This project sought to explain the mechanism of peptide selection by two functionally distinct MHC I allotypes using a combination of molecular dynamics and mathematical modelling of biochemical experiments.&lt;/p&gt;
+&lt;p&gt;In collaboration with &lt;a href=&#34;https://www.microsoft.com/en-us/research/group/biological-computation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the Biological Computation Group at Microsoft Research Cambridge&lt;/a&gt; 
+we used biochemical data to infer that a conformational intermediate of MHC I is 
+significant for peptide selection, and molecular dynamics simulations to show that peptide selector function correlates with protein plasticity.&lt;/p&gt;
+&lt;p&gt;This led to the proposal that MHC I cofactor tapasin modulates MHC I plasticity by 
+dynamically coupling the peptide binding region and membrane bound domain.&lt;/p&gt;
+&lt;h2 id=&#34;publication&#34;&gt;Publication&lt;/h2&gt;
+&lt;p&gt;A. Bailey, N. Dalchau, R. Carter, S. Emmott, A. Phillips, J. M. Werner, T. Elliott. 
+Selector function of MHC I molecules is determined by protein plasticity. 
+Sci Rep, (5), pp. 14928, &lt;a href=&#34;https://doi.org/10.1038/srep14928,&#34;&gt;https://doi.org/10.1038/srep14928,&lt;/a&gt; 2015.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;featured.png&#34; alt=&#34;MHC model&#34; title=&#34;Mathematical model of MHC I peptide selection&#34;&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&#34;mhc_dynamics.png&#34; alt=&#34;MHC dynamice&#34; title=&#34;Mathematical model of MHC I peptide selection&#34;&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Biochem Calculator</title>
+      <link>https://ab604.uk/project/2018-05-17-biochem-calculator/</link>
+      <pubDate>Wed, 20 May 2015 00:00:00 +0000</pubDate>
+      <guid>https://ab604.uk/project/2018-05-17-biochem-calculator/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

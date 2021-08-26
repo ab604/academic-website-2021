@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Antigen presentation | Dr. Alistair Bailey</title>
+    <link>https://ab604.uk/tag/antigen-presentation/</link>
+      <atom:link href="https://ab604.uk/tag/antigen-presentation/index.xml" rel="self" type="application/rss+xml" />
+    <description>Antigen presentation</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Sat, 01 Feb 2014 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://ab604.uk/images/icon_hu0f11bd59e4bf45989b0a13431683b23b_1758_512x512_fill_lanczos_center_2.png</url>
+      <title>Antigen presentation</title>
+      <link>https://ab604.uk/tag/antigen-presentation/</link>
+    </image>
+    
+    <item>
+      <title>Two Polymorphisms Facilitate Differences in Plasticity between Two Chicken Major Histocompatibility Complex Class I Proteins</title>
+      <link>https://ab604.uk/publication/bailey-two-2014/</link>
+      <pubDate>Sat, 01 Feb 2014 00:00:00 +0000</pubDate>
+      <guid>https://ab604.uk/publication/bailey-two-2014/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The cell biology of major histocompatibility complex class I assembly: towards a molecular understanding</title>
+      <link>https://ab604.uk/publication/hateren-cell-2010/</link>
+      <pubDate>Fri, 01 Jan 2010 00:00:00 +0000</pubDate>
+      <guid>https://ab604.uk/publication/hateren-cell-2010/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
