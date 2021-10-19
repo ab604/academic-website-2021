@@ -42,10 +42,10 @@ superuser: true
 title: Alistair Bailey
 ---
 
-I am a researcher at the [Centre for Proteomic Research](http://www.proteome.soton.ac.uk/) and [Cancer Sciences Unit](http://www.som.soton.ac.uk/research/cancersciences/) at the 
+I am a researcher at the [Centre for Proteomic Research](http://www.proteome.soton.ac.uk/) and [Cancer Sciences Unit](https://www.southampton.ac.uk/medicine/research/themes/cancer-sciences.page) at the 
 [University of Southampton](https://www.soton.ac.uk). My research interests are 
 in antigen processing and presentation by class I MHC molecules, data science 
 and proteomics.
 
 The project I currently work on aims to [improve immunotherapy treatment for cancer patients](https://www.cancerresearchuk.org/funding-for-researchers/accelerator-award/portfolio-funded-projects-outputs). I also contribute to research into the role of MHC molecules in skin sensitization to chemical allergens, and contagious cancer in the
-[Tasmanian Devil](https://www.southampton.ac.uk/biosci/research/projects/identifying-peptide-candidates-for-a-vaccine-against-the-contagious-cancer.page). I am also a [Data and Software Carpentry](https://carpentries.org/) instructor. 
+Tasmanian Devil. I am also a [Data and Software Carpentry](https://carpentries.org/) instructor. 
