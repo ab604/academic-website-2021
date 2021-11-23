@@ -14,7 +14,8 @@ education:
 email: ""
 interests:
 - MHC class I antigen processing and presentation
-- Proteomics
+# - Proteomics
+- Informatics
 - Cancer immunotherapy
 - Data science in R
 name: Alistair Bailey
