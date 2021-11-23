@@ -1,5 +1,5 @@
 ---
-bio: My research interests include MHC class I antigen processing and presentation, data science in R and proteomics
+bio: My research interests include MHC class I antigen processing and presentation, data science in R and Omics
 education:
   courses:
   - course: PhD in Immunology
@@ -14,7 +14,7 @@ education:
 email: ""
 interests:
 - MHC class I antigen processing and presentation
-# - Proteomics
+- Omics
 - Informatics
 - Cancer immunotherapy
 - Data science in R
