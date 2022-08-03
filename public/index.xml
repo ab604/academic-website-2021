@@ -75,10 +75,26 @@
     </item>
     
     <item>
+      <title>Analysis of cell-specific peripheral blood biomarkers in severe allergic asthma identifies innate immune dysfunction</title>
+      <link>https://ab604.uk/publication/nicholas-cea-2022/</link>
+      <pubDate>Wed, 27 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://ab604.uk/publication/nicholas-cea-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Immunopeptidomic analysis of influenza A virus infected human tissues identifies internal proteins as a rich source of HLA ligands</title>
-      <link>https://ab604.uk/publication/nicholas-immunopeptidomic-2021/</link>
-      <pubDate>Sun, 01 Aug 2021 00:00:00 +0000</pubDate>
-      <guid>https://ab604.uk/publication/nicholas-immunopeptidomic-2021/</guid>
+      <link>https://ab604.uk/publication/nicholas-immunopeptidomic-2022/</link>
+      <pubDate>Thu, 20 Jan 2022 00:00:00 +0000</pubDate>
+      <guid>https://ab604.uk/publication/nicholas-immunopeptidomic-2022/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The differentiation state of the Schwann cell progenitor drives phenotypic variation between two contagious cancers</title>
+      <link>https://ab604.uk/publication/owen-plos-pathogens-2021/</link>
+      <pubDate>Tue, 23 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://ab604.uk/publication/owen-plos-pathogens-2021/</guid>
       <description></description>
     </item>
     
@@ -171,7 +187,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-281793546&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-291857346&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -181,7 +197,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-281793546&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-291857346&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
