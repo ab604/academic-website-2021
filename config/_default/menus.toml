@@ -24,8 +24,8 @@
   weight = 20
 
 [[main]]
-  name = "CV"
-  url = <a href="/cv/cv.html" target="_blank">CV</a>
+  name = "New Tab"
+  url = <a href="/cv/cv.html" target="_blank">New Tab</a>
   #url = "/cv/cv.html"
   weight = 50
 
