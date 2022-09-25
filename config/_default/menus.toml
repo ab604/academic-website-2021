@@ -26,7 +26,6 @@
 [[main]]
   name = "CV"
   url = "/cv/cv.html"
-  hrefTargetBlank = true
   weight = 50
 
 [[main]]
