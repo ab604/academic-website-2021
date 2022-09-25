@@ -59,14 +59,10 @@ ignoreFiles = ["\\.ipynb$", ".ipynb_checkpoints$", "\\.Rmd$", "\\.Rmarkdown$", "
 
 # Configure the Markdown renderer.
 [markup]
-defaultMarkdownHandler = 'blackFriday'
-[blackFriday]
-hrefTargetBlank = true
-#[markup]
-#  defaultMarkdownHandler = "goldmark"
-#  [markup.goldmark]
-#    [markup.goldmark.renderer]
-#      unsafe = true  # Enable user to embed HTML snippets in Markdown content.
+  defaultMarkdownHandler = "goldmark"
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true  # Enable user to embed HTML snippets in Markdown content.
   [markup.highlight]
     codeFences = false  # Disable Hugo's code highlighter as it conflicts with Academic's highligher.
   [markup.tableOfContents]
