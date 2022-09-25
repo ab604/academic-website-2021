@@ -13,7 +13,7 @@ education:
     year: 1994
 email: ""
 interests:
-- MHC class I antigen processing and presentation
+- Antigen processing and presentation
 - Omics
 - Informatics
 - Cancer immunotherapy
@@ -44,7 +44,7 @@ title: Alistair Bailey
 ---
 
 I am a research scientist at the
-[University of Southampton](https://www.soton.ac.uk). An engineer by training, I now work primarily as an informatician.
+[University of Southampton](https://www.soton.ac.uk). An engineer now working primarily as an informatician.
 My research subject is antigen processing and presentation by major histocompatibility molecules.
 
-My current project aims to [improve immunotherapy treatment for cancer patients](https://www.cancerresearchuk.org/funding-for-researchers/accelerator-award/portfolio-funded-projects-outputs). Other projects include influenza, COVID19, skin sensitization to chemical allergens, asthma, and contagious cancer in the Tasmanian Devil. I am also a [Data and Software Carpentry](https://carpentries.org/) instructor. 
+My principal project aims to [improve immunotherapy treatment for cancer patients](https://www.cancerresearchuk.org/funding-for-researchers/accelerator-award/portfolio-funded-projects-outputs). Other projects include research into influenza, COVID19, skin sensitization to chemical allergens, asthma and contagious cancer in the Tasmanian Devil. I am also a [Data and Software Carpentry](https://carpentries.org/) instructor. 
