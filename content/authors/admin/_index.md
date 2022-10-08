@@ -14,7 +14,7 @@ education:
 email: ""
 interests:
 - Antigen processing and presentation
-- Omics
+- Omics: WES, RNAseq, scRNAseq, Proteomics
 - Informatics
 - Cancer immunotherapy
 - Data science in R
