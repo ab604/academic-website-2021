@@ -201,7 +201,9 @@
       {{ end }}
 
     </ul>
-
+    
+    <li{{ if eq .URL $current_page.RelPermalink }} class="active"{{ end }}><a href="{{ .URL }}"{{ if eq .Name "CV"}} target="_blank" {{end}} >{{ .Name }}  </a></li>
+    
   </div><!-- /.container -->
 </nav>
 {{end}}{{/* End show navbar. */}}
