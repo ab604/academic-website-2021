@@ -46,6 +46,6 @@ title: Alistair Bailey
 I currently work as a learning technologist supporting Librarians at the
 [University of Southampton.](https://www.soton.ac.uk) 
 
-An engineer by training, I have worked primarily as an informatician and research scientist investigating antigen processing and presentation by major histocompatibility molecules.
+An engineer by training, I have since worked primarily as an informatician and research scientist investigating antigen processing and presentation by major histocompatibility molecules.
 
 My most recent project was [CRUK Accelerator: Improving immunotherapy treatment for cancer patients.](https://www.cancerresearchuk.org/funding-for-researchers/accelerator-award/portfolio-funded-projects-outputs) Other projects I have worked on include research into influenza, COVID19, skin sensitization to chemical allergens, asthma and contagious cancer in the Tasmanian Devil. I am also a [Data and Software Carpentry](https://carpentries.org/) instructor. 
