@@ -74,7 +74,8 @@
       <pubDate>Tue, 20 Oct 2015 00:00:00 +0000</pubDate>
       <guid>https://ab604.uk/project/2015-10-20-selector-function/</guid>
       <description>&lt;p&gt;This project sought to explain the mechanism of peptide selection by two functionally distinct MHC I allotypes using a combination of molecular dynamics and mathematical modelling of biochemical experiments.&lt;/p&gt;
-&lt;p&gt;In collaboration with &lt;a href=&#34;https://www.microsoft.com/en-us/research/group/biological-computation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the Biological Computation Group at Microsoft Research Cambridge&lt;/a&gt; 
+&lt;p&gt;In collaboration with &lt;a href=&#34;https://www.microsoft.com/en-us/research/group/biological-computation/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;the Biological Computation Group at Microsoft Research Cambridge&lt;/a&gt;
+ 
 we used biochemical data to infer that a conformational intermediate of MHC I is 
 significant for peptide selection, and molecular dynamics simulations to show that peptide selector function correlates with protein plasticity.&lt;/p&gt;
 &lt;p&gt;This led to the proposal that MHC I cofactor tapasin modulates MHC I plasticity by 
