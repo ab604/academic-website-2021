@@ -33,6 +33,8 @@ content:
     tag: Proteomics
   - name: R
     tag: R
+  - name: Misc.
+    tag: misc
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
