@@ -33,7 +33,7 @@ content:
     tag: Proteomics
   - name: R
     tag: R
-  - name: Misc.
+  - name: Misc
     tag: misc
 
 design:
