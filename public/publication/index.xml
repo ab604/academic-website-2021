@@ -5,12 +5,20 @@
     <link>https://ab604.uk/publication/</link>
       <atom:link href="https://ab604.uk/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Fri, 16 Sep 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-gb</language><lastBuildDate>Thu, 17 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://ab604.uk/images/icon_hu0f11bd59e4bf45989b0a13431683b23b_1758_512x512_fill_lanczos_center_2.png</url>
       <title>Publications</title>
       <link>https://ab604.uk/publication/</link>
     </image>
+    
+    <item>
+      <title>Operation Moonshot: rapid translation of a SARS-CoV-2 targeted peptide immunoaffinity liquid chromatography-tandem mass spectrometry test from research into routine clinical use</title>
+      <link>https://ab604.uk/publication/moonshot-2023/</link>
+      <pubDate>Thu, 17 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://ab604.uk/publication/moonshot-2023/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Identification of neoantigens in esophageal adenocarcinoma</title>
