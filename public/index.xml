@@ -78,6 +78,14 @@
     </item>
     
     <item>
+      <title>R for Librarians</title>
+      <link>https://ab604.uk/project/2024-02-27-library-r/</link>
+      <pubDate>Tue, 27 Feb 2024 00:00:00 +0000</pubDate>
+      <guid>https://ab604.uk/project/2024-02-27-library-r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Premier League Predictions 2023/24</title>
       <link>https://ab604.uk/project/2024-01-13-premier-league-predictions/</link>
       <pubDate>Sat, 13 Jan 2024 00:00:00 +0000</pubDate>
@@ -223,7 +231,7 @@ data.head()
 &lt;p&gt;Demo:&lt;/p&gt;
 
 
-&lt;div id=&#34;chart-481573296&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-975486213&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     let a = setInterval( function() {
@@ -233,7 +241,7 @@ data.head()
       clearInterval( a );
 
       Plotly.d3.json(&#34;./line-chart.json&#34;, function(chart) {
-        Plotly.plot(&#39;chart-481573296&#39;, chart.data, chart.layout, {responsive: true});
+        Plotly.plot(&#39;chart-975486213&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
