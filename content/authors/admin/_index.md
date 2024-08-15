@@ -32,7 +32,7 @@ social:
   link: https://orcid.org/0000-0003-0023-8679
 - icon: bluesky
   icon_pack: fab
-  link: https://bsky.app/profile/alistair604.bsky.social
+  link: https://bsky.app/profile/ab604.uk
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=Xq7lwXEAAAAJ&hl=en
